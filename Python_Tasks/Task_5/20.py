@@ -30,5 +30,3 @@ solve(all_blocks)
     
             
           
-    
-     
